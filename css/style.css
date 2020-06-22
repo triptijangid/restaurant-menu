@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+body {
+    font-family: 'Itim', cursive;
+}
+
+nav {
+    background-color: #809185;
+}
+
+.heading {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#heading {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.chicken {
+    background-color: #809185;
+}
+
+h5 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.chicken p {
+    padding: 0px 10px;
+}
+
+.links {
+    text-decoration: underline;
+}
